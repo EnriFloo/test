@@ -1,0 +1,26 @@
+﻿@model DashboardViewModel
+
+<h2>Dashboard Autovelox</h2>
+
+<div class="alert alert-info">
+    <strong>Totale autovelox in Italia:</strong> @Model.TotaleAutovelox
+</div>
+
+<h4>Autovelox per Regione</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Regione</th>
+            <th>Numero Autovelox</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.AutoveloxPerRegione)
+        {
+            <tr>
+                <td>@item.Regione</td>
+                <td>@item.NumeroAutovelox</td>
+            </tr>
+        }
+    </tbody>
+</table>
