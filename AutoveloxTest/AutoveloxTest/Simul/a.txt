@@ -1,0 +1,62 @@
+Domanda 1: Quale servizio AWS è più adatto per creare un'architettura serverless
+altamente scalabile?
+﻿﻿﻿Amazon EC2
+﻿﻿﻿AWS Lambda,
+﻿﻿﻿Amazon RDS.
+﻿﻿﻿Amazon ECS.
+Risposta corretta: B) AWS Lambda.
+
+Domanda 2: Quale servizio AWS può essere utilizzato per centralizzare la gestione degli accessi e delle autorizzazioni in un ambiente multi-account?
+﻿﻿﻿AWS IAM.
+﻿﻿﻿AWS Organizations.
+﻿﻿﻿AWS Single Sign-On (SSO),
+﻿﻿﻿AWS CloudTrail.
+Risposta corretta: C) AWS Single Sign-On (SSO).
+
+Domanda 3: Quale strategía di disaster recovery prevede il ripristino più rapido ma anche il costo più elevato?
+﻿﻿﻿Backup e ripristino.
+﻿﻿﻿Pilot Light,
+﻿﻿﻿Warm Standby,
+﻿﻿﻿Multi-Site Active-Active,
+Risposta corretta: D) Multi-Site Active-Active.
+
+Domanda 4: Quale servizio AWS è più adatto per archiviare dati raramente accessibill a un costo molto basso?
+vian (Daty)
+﻿﻿﻿Amazon S3 Standard,
+﻿﻿﻿Amazon S3 Glacier,
+﻿﻿﻿Amazon EFS.
+﻿﻿﻿Amazon RDS.
+Risposta corretta: B) Amazon S3 Glacier.
+
+Domanda 5: Quale servizio AWS può essere utilizzato per monitorare e ottimizzare i costi del cloud?
+﻿﻿﻿AWS Cost Explorer.
+﻿﻿﻿AWS Trusted Advisor.
+﻿﻿﻿AWS Budgets,
+﻿﻿﻿Tutte le precedenti.
+Risposta corretta: D) Tutte le precedenti.
+
+Domanda 6: Quale servizio AWS è più adatto per creare una rete privata virtuale
+(VPC) con connettività ibrida verso il data center on-premise?
+﻿﻿﻿AWS Direct Connect.
+﻿﻿﻿Amazon VPC.
+Risposta Corretta: AWS Direct Connect.
+
+Domanda 7: Quale servizio AWS è più adatto per eseguire analisi in tempo reale su grandi volumi di dati streaming?
+﻿﻿﻿Amazon Redshift.
+﻿﻿﻿Amazon Kinesis Data Analytics.
+﻿﻿﻿Amazon Athena.
+﻿﻿﻿Amazon QuickSight.
+Risposta corretta: B) Amazon Kinesis Data Analytics.
+
+Domanda 8: Quale servizio AWS è più adatto per garantire la sicurezza e la conformità di un'applicazione web esposta a Internet?
+﻿﻿﻿AWS WAF (Web Application Firewall).
+﻿﻿﻿AWS Shield.
+﻿﻿﻿AWS IAM.
+I
+D) AWS Contig.
+Risposta corretta: A) AWS WAF (Web Application Firewall).
+
+
+-------------------------------
+
+
