@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+    var totali = ViewBag.TotaliPerRegione as List<AutoveloxTest.Controllers.DashboardItem>;
+}
+
+<h2>Dashboard Autovelox</h2>
+
+<p><strong>Totale autovelox in Italia:</strong> @ViewBag.TotaleItalia</p>
+
+<h4>Autovelox per Regione</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Regione</th>
+            <th>Totale autovelox</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in totali)
+        {
+            <tr>
+                <td>@item.Regione</td>
+                <td>@item.Totale</td>
+            </tr>
+        }
+    </tbody>
+</table>

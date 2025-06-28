@@ -1,0 +1,45 @@
+﻿@model AutoveloxTest.Models.Mappa
+
+<h2>Dettaglio Autovelox</h2>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Nome</th>
+        <td>@Model.Nome</td>
+    </tr>
+    <tr>
+        <th>Anno Inserimento</th>
+        <td>@Model.AnnoInserimento</td>
+    </tr>
+    <tr>
+        <th>Data/Ora Inserimento</th>
+        <td>@Model.DataOraInserimento</td>
+    </tr>
+    <tr>
+        <th>Latitudine</th>
+        <td>@Model.Latitudine</td>
+    </tr>
+    <tr>
+        <th>Longitudine</th>
+        <td>@Model.Longitudine</td>
+    </tr>
+    <tr>
+        <th>Comune</th>
+        <td>@Model.IdComuneNavigation?.Denominazione</td>
+    </tr>
+    <tr>
+        <th>Provincia</th>
+        <td>@Model.IdComuneNavigation?.IdProvinciaNavigation?.Denominazione</td>
+    </tr>
+    <tr>
+        <th>Regione</th>
+        <td>@Model.IdComuneNavigation?.IdProvinciaNavigation?.IdRegioneNavigation?.Denominazione</td>
+    </tr>
+    <!-- Aggiungi altri campi se servono -->
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Torna all'elenco</a>

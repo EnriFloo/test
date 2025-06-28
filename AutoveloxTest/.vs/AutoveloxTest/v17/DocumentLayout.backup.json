@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\controllers\\dashboardcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\controllers\\dashboardcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\views\\mappa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\views\\mappa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\views\\mappa\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\views\\mappa\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\controllers\\mappacontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\controllers\\mappacontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\services\\mappaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\services\\mappaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\models\\autoveloxdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\models\\autoveloxdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|c:\\users\\enric\\onedrive\\desktop\\c#\\autoveloxtest\\autoveloxtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AAF9E92-2D20-4DD0-864C-A2078C7622D0}|AutoveloxTest\\AutoveloxTest.csproj|solutionrelative:autoveloxtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController1.cs",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Controllers\\DashboardController1.cs",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Controllers\\DashboardController1.cs",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Controllers\\DashboardController1.cs",
+              "RelativeToolTip": "AutoveloxTest\\Controllers\\DashboardController1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:26:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AutoveloxTest\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T14:24:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutoveloxTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T14:13:23.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Mappa\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Views\\Mappa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Mappa\\Index.cshtml",
+              "RelativeToolTip": "AutoveloxTest\\Views\\Mappa\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T14:12:57.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappaController1.cs",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Controllers\\MappaController1.cs",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Controllers\\MappaController1.cs",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Controllers\\MappaController1.cs",
+              "RelativeToolTip": "AutoveloxTest\\Controllers\\MappaController1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:12:03.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Program.cs",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Program.cs",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Program.cs",
+              "RelativeToolTip": "AutoveloxTest\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:42:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AutoveloxTest\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T14:27:28.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappaService.cs",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Services\\MappaService.cs",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Services\\MappaService.cs",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Services\\MappaService.cs",
+              "RelativeToolTip": "AutoveloxTest\\Services\\MappaService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:06:08.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dettaglio.cshtml",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Mappa\\Dettaglio.cshtml",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Views\\Mappa\\Dettaglio.cshtml",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Views\\Mappa\\Dettaglio.cshtml",
+              "RelativeToolTip": "AutoveloxTest\\Views\\Mappa\\Dettaglio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T14:20:03.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoveloxDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Models\\AutoveloxDbContext.cs",
+              "RelativeDocumentMoniker": "AutoveloxTest\\Models\\AutoveloxDbContext.cs",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\Models\\AutoveloxDbContext.cs",
+              "RelativeToolTip": "AutoveloxTest\\Models\\AutoveloxDbContext.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:40:26.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\appsettings.json",
+              "RelativeDocumentMoniker": "AutoveloxTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\enric\\OneDrive\\Desktop\\C#\\AutoveloxTest\\AutoveloxTest\\appsettings.json",
+              "RelativeToolTip": "AutoveloxTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T13:36:58.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
