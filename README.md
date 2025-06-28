@@ -17,8 +17,11 @@ ALTER ROLE db_owner ADD MEMBER cloud2325;
 ------------------------
 
 Install-Package Microsoft.EntityFrameworkCore
+
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
 Install-Package Microsoft.EntityFrameworkCore.Tools
+
 Install-Package Microsoft.EntityFrameworkCore.Design
 
 ------------------------
