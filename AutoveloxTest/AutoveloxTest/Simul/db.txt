@@ -26,6 +26,12 @@ Install-Package Microsoft.EntityFrameworkCore.Design
 
 ------------------------
 
+"ConnectionStrings": {
+  "DefaultConnection": "Server=.\\SQLEXPRESS;Database=Autovelox;User Id=its1;Password=Its-2025;TrustServerCertificate=True;"
+},
+
+-----------------------------
+
 Scaffold-DbContext "Server=.\SQLEXPRESS;Database=Autovelox;User Id=its;Password=Its-2025;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context AutoveloxContext -DataAnnotations
 
 ---------------------------
