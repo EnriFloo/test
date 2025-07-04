@@ -1,0 +1,62 @@
+1. Quali file vengono ignorati dal seguente git ignore?
+```
+#.py
+dist/
+*.md
+*.swp
+```
+□ Tutti i file con l'estensione .md o .swp, insieme a tutta la directory dist (giusta)
+□ Tutti i file con l'estensione #.py, .md o .swp, insieme a tutta la directory dist
+□ Solo la directory build
+□ Tutti i file con l'estensione .md o .swp
+
+
+2. Utilizzando Git il tuo progetto ha diversi branch attivi: master, beta e feat/logging. Hai
+appena finito di lavorare sulla tua feature di debug nel branch feat/logging e vuoi
+unirlo al branch beta. Come procedi?
+□ Checkout del feat/logging branch e merge di il comando git merge beta
+□ Checkout del master branch e lanciare il comando git merge beta -> feat/logging
+□ Elimina il branch feat/logging e verra' unito al branch principale automaticamente
+□ Checkout del branch beta ed eseguire il comando git merge feat/logging (giusta)
+
+
+3. Utilizzando Git, quali sono i passaggi per contribuire ad un repository ospitato su
+gitlab?
+□ 1
+ Scarico il repository in locale
+ Creo un nuovo branch a partire dall'ultimo tag valido
+ Effettuo le modifiche
+ Registro le modifiche con dei commit
+ Push delle modifiche su gitlab
+ Apro una merge request
+□ 2
+ Scarico il repository in locale
+ Creo un nuovo branch a partire da quello principale
+ Effettuo le modifiche
+ Salvo le modifiche con un tag
+ Push delle modifiche su gitlab
+ Apro una merge request
+□ 3 (giusta)
+ Scarico il repository in locale
+ Creo un nuovo branch a partire da quello principal
+ Effettuo le modifiche
+ Registro le modifiche con dei commit
+ Push delle modifiche su gitlab
+ Apro una merge request
+□ 4
+ Scarico il repository in locale
+ Creo un nuovo branch a partire dall'ultimo tag valido
+ Effettuo le modifiche
+ Registro le modifiche con dei commit
+ Push delle modifiche su gitlab
+ Pull delle modifiche da gitlab
+ Merge sul branch principale
+
+
+4. Utilizzando il software Git. Immagina di aver creato un bug fix su un nuovo branch e
+vuoi unirlo al codice per la prossima release generata dal main branch. Cosa dovresti
+fare?
+□ Copiare i cambiamenti fatti nel tuo branch e fare un commit direttamente sul main
+□ Creare una merge request per unire i tuoi cambiamenti sul main (giusta)
+□ Non condividere la correzione e tenerla in un branch privato
+□ Usare git bisect per cercare un commit precedente in cui questo bug non si presentava
