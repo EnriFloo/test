@@ -1,3 +1,5 @@
+visualizza -> chat di github copilot, usare modalità chiedi con tutta la soluzione come contesto e fare piccoli passi per volta spiegando bene
+
 - installare pacchetti nuget
 - modificare stringa di connessione
 - fare scaffolding
