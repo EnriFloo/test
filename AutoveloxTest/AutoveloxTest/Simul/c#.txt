@@ -1,0 +1,44 @@
+- installare pacchetti nuget
+- modificare stringa di connessione
+- fare scaffolding
+- creare servizio
+- creare controller
+- creare view
+
+ 1. Installare pacchetti NuGet
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.EntityFrameworkCore.Design
+
+📦 2. Modificare la stringa di connessione
+appsettings.json → aggiungi stringa con utente its e DB Autovelox
+"ConnectionStrings": {
+  "DefaultConnection": "Server=.\\SQLEXPRESS;Database=Autovelox;User Id=its1;Password=Its-2025;TrustServerCertificate=True;"
+},
+Verifica anche che Program.cs o Startup.cs usino quella stringa:
+builder.Services.AddDbContext<AutoveloxDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+📦 3. Fare scaffolding
+
+Scaffold-DbContext "Server=.\SQLEXPRESS;Database=Autovelox;User Id=its;Password=Its-2025;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context AutoveloxContext -DataAnnotations
+
+
+📦 4. Creare servizio (MappeService, DashboardService)
+
+Creare cartella Services con dentro i file
+
+Registra il servizio in program.cs prima di var app = builder.Build();:
+
+builder.Services.AddScoped<MappeService>();
+
+
+📦 5. Creare Controller
+
+Crea Controller MVC che usa il servizio
+
+📦 6. Creare View
+
+Views Razor per Index, Details, ecc.
+
