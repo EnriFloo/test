@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  web:
+    image: swarm-golang:latest
+    deploy:
+      replicas: 3
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.swarm-golang.rule=Host(`swarm-golang.localhost`)
+      - traefik.http.services.swarm-golang.loadbalancer.server.port=8080
+    networks:
+      - lbnetwork
+
+networks:
+  lbnetwork:
+    external: true

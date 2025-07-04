@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  web:
+    image: swarm-node:latest
+    deploy:
+      replicas: 8
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.swarm-node.rule=Host(`swarm-node.localhost`)
+      - traefik.http.services.swarm-node.loadbalancer.server.port=8080
+    networks:
+      - lbnetwork
+
+networks:
+  lbnetwork:
+    external: true
